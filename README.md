@@ -1,6 +1,4 @@
-### Hi there 👋
-
-😀 I am Rafael Freitas 
+**Rafael Freitas**
 
 🌎 I am from São paulo, Brazil 
 
