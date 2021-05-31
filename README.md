@@ -19,3 +19,5 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/vidarafael)](https://github.com/vidarafael)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/vidarafael)](https://github.com/vidarafael)
+
+![Rafael Freitas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidarafael&show_icons=true&theme=radical)
