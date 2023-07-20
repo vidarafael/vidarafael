@@ -1,17 +1,17 @@
 **Rafael Freitas**
 
-💻 I'm an IT student, my first touch with programming 👨🏻‍💻 was in 2020. I really like web development and I'm actually focused on studying React.js and Node.js
+💻 Eu sou um desenvolvedor FullStack, meu primeiro contato com programação 👨🏻‍💻 foi no final do ano de 2019. Atualmente meu foco de estudo é na parte de desenvolvimento Web, minhas principais tecnologias são React e Node
 
-🌎 I am from São paulo, Brazil 
+🌎 Sou de São Paulo/Brasil
 
 <hr>
 
-**My Network:**
+**Minhas Redes:**
 
 <a href="https://www.linkedin.com/in/rafael-freitas-65382420b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <hr>
 
-**Technology:**
+**Tecnologias:**
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/vidarafael)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/vidarafael)
