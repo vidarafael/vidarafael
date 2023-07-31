@@ -1,6 +1,6 @@
 **Rafael Freitas**
 
-💻 Eu sou um desenvolvedor FullStack, meu primeiro contato com programação 👨🏻‍💻 foi no final do ano de 2019. Atualmente meu foco de estudo é na parte de desenvolvimento Web, minhas principais tecnologias são React e Node
+💻 Eu sou desenvolvedor fullstack, meu primeiro contato com programação 👨🏻‍💻 foi no final do ano de 2019. Atualmente meu foco de estudo é na parte de desenvolvimento Web, minhas principais tecnologias são React e Node
 
 🌎 Sou de São Paulo/Brasil
 
